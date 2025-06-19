@@ -1,0 +1,90 @@
+                          .a 
+                         {
+                         display:flex;
+                        justify-content: space-between  ;                     
+                    }
+                             ul .b
+                                {
+                             list-style-type:none;
+                               display:inline;
+                            padding: 10px;}
+                        li .c
+                               {
+                               text-decoration:none;
+                              }
+
+                              .birth{display:flex;}
+
+
+                              .banner{background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+        url(./1.jpg) center/cover no-repeat;
+      color: #fff;
+      padding: 5rem 1rem;
+      text-align: center;}
+
+
+
+                            .nas{margin-left: 0px;}
+.nav{
+    padding-top: 10px;
+}
+.nac{padding-top: 20px;
+margin-right: 10px;}
+
+.b a{
+    color: rgb(14, 13, 13);
+}
+
+.grid{display: flex;padding-left: 20px; padding-right: 20px;}
+.gr{padding: 20px;}
+.flex{display:grid; grid-template-columns:auto,auto,auto;}
+.fl{ color:rgb(14, 13, 13) ;}
+
+.viewall { background-color:rgb(14, 13, 13) ;
+    color:rgb(255, 255, 255) ;
+text-decoration:none;text-align: center; padding: 10px;}
+
+
+.bannerflex{display: flex; padding-left: 60px;}
+.bannergrid{display: grid; grid-template-columns:auto,auto,auto;}
+
+
+
+
+
+
+
+
+.stepflex{display:flex;gap:10px;}
+.firstgrid{display: grid;
+grid-template-columns:auto,auto,auto;padding: 10px;}
+.secodgrid{display: grid;
+grid-template-columns:auto,auto,auto}
+
+
+
+
+
+.griddd{display: flex; margin-left: 20px;}
+.flexxx{display: grid;grid-template-columns:auto,auto,auto;}
+
+
+
+
+
+.footer{display: grid;
+grid-template-columns:auto,auto,auto; background-color: rgb(14, 13, 13) ;}
+.footer2{display: flex; color: rgb(255, 255, 255); gap: 10px;}
+.footer21{display:grid;grid-template-columns:auto,auto,auto;}
+.footer3{display: grid;
+grid-template-columns:auto,auto,auto}
+.footer31{display: flex;}
+
+
+ ul .footer211
+        { list-style-type:none; padding: 10px;}
+
+ li .footer212 { text-decoration:none;color: rgb(255, 255, 255)}
+                            
+
+
